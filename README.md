@@ -1,6 +1,6 @@
 # Horizon World Map (Rust Edition)
 
-<img src="https://raw.githubusercontent.com/kroniksdwdwd/Horizon-WorldMap/refs/heads/main/icon.png" width="256" alt="Icon">
+<img src="https://raw.githubusercontent.com/kroniksdwdwd/Horizon-WorldMap/refs/heads/main/icon.png" width="64" alt="Icon">
 
 A custom, high-performance client-side world map mod for the **Horizon** client, written in **Rust**. 
 This project is based on the files of Xaero's World Map, adapted and optimized for the Rust ecosystem.
